@@ -20,11 +20,11 @@ export const teamMemberData: TeamMember[] = [
     href: "/",
   },
   {
-    name: "Steven Piao",
+    name: "Mark Santiago",
     title: "Co-founder",
     description:
-      "Hebei university of technology, Former full stack developer at DESO, RubyExchange and Freebit.",
-    imageSrc: "/assets/avatars/Steven.jpg",
+      "Former fullstack blockchain developer at Luxfy, RubyExchange.",
+    imageSrc: "/assets/avatars/Mark.jpg",
     socialLink: "Instagram",
     href: "/",
   },
